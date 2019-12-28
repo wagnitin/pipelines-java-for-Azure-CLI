@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/wagnitin0669/AzureBasics/_apis/build/status/wagnitin.Pipelines-java?branchName=master)](https://dev.azure.com/wagnitin0669/AzureBasics/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
